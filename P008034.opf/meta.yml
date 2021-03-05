@@ -1,15 +1,16 @@
-id: opecha:P008034
+id: P008034
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD20797
   title: ཚུལ་ཁྲིམས་བསྟོད་པ་བླང་དོར་གསལ་བྱེད་རྩ་བ་དང་འགྲེལ་པ།
-  volume:
+  author: ''
+  volumes:
     7f930d5e237040318350ffbd46944b57:
       image_group_id: I2PD20857
       title: Volume 1 of
       volume_number: 1
       total_pages: 156
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཚུལ་ཁྲིམས་བསྟོད་པ་བླང་དོར་གསལ་བྱེད་རྩ་བ་དང་འགྲེལ་པ།
   author: ''
